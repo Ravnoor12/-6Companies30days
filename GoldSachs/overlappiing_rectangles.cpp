@@ -19,4 +19,5 @@ int main(){
         int ans = obj.doOverlap(l1,r1,l2,r2);
         cout<<ans<<endl;
     }
+    return 0;
 }
